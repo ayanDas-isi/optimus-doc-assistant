@@ -1,1 +1,1 @@
-# optimus-doc-assistant
+# watsonx-doc-processor

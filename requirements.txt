@@ -1,0 +1,7 @@
+Flask==2.2.5
+python-dotenv
+argparse
+chromadb
+langchain
+langchain-community
+ibm-watson-machine-learning
